@@ -2,4 +2,7 @@ this is good.txt 文件
  public static void test(){
    system.out.parint("这是什么")
  }
+ public static void getAdd(){
+   System.out.parintln("你是谁")
+ }
  
