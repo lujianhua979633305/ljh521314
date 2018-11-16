@@ -4,5 +4,9 @@ this is good.txt 文件
  }
  public static void getAdd(){
    System.out.parintln("你是谁")
+ 
+ }
+ public static void getPut(){
+   System.out.parintln("这是哪")
  }
  
