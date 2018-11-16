@@ -5,4 +5,7 @@ this is good.txt 文件
  public static void getAdd(){
    System.out.parintln("你是谁")
  }
+ public static void getList(List<String> List){
+  System.out.parintln(List);
+ }
  
