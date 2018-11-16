@@ -1,0 +1,5 @@
+this is good.txt 文件
+ public static void test(){
+   system.out.parint("这是什么")
+ }
+ 
