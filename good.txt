@@ -9,4 +9,7 @@ this is good.txt 文件
  public static void getPut(){
    System.out.parintln("这是哪")
  }
+ public static void getList(List<String> List){
+  System.out.parintln(List);
+ }
  
